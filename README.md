@@ -7,3 +7,5 @@ Enlace ZEIT NOW
 https://zeit.co/lauraortizolmos/mi-primer-portal-web-node/20rwvryt3
 
 https://mi-primer-portal-web-node.lauraortizolmos.now.sh/
+
+![Captura de pantalla (38)](https://user-images.githubusercontent.com/61463784/77725654-9ce45a80-6fbb-11ea-9d0b-9cd3a33748e3.png)
